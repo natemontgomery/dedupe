@@ -1,0 +1,16 @@
+{
+  "name": "dedupe",
+  "version": "0.0.1",
+  "description": "dedupe a payload",
+  "main": "dedupe.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Nathan Montgomery",
+  "license": "MIT",
+  "devDependencies": {
+    "commander": "^2.16.0",
+    "expect.js": "^0.3.1",
+    "inquirer": "^6.0.0"
+  }
+}
